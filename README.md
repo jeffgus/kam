@@ -4,11 +4,17 @@ The GitOps Application Manager provides command line interface to bootstrap GitO
 
 ## Support Matrix
 
-|                                  KAM                                   | OpenShift | OpenShift GitOps | OpenShift Pipelines |
-| :--------------------------------------------------------------------: | :-------: | :--------------: | :-----------------: |
-| [0.0.40](https://github.com/redhat-developer/kam/releases/tag/v0.0.40) |    4.9    |       1.3        |        1.6.x        |
-| [0.0.39](https://github.com/redhat-developer/kam/releases/tag/v0.0.39) |    4.8    |      >=1.2.1     |        1.5.x        |
-| [0.0.38](https://github.com/redhat-developer/kam/releases/tag/v0.0.38) |    4.7    |      >=1.2.0     |        1.4.x        |
+|                                  KAM                                   |   OpenShift   | OpenShift GitOps | OpenShift Pipelines |
+| :--------------------------------------------------------------------: | :-----------: | :--------------: | :-----------------: |
+| [0.0.47](https://github.com/redhat-developer/kam/releases/tag/v0.0.47) |  4.10 - 4.13  |       1.8        |                     |
+| [0.0.46](https://github.com/redhat-developer/kam/releases/tag/v0.0.46) |  4.10 - 4.12  |       1.7        |                     |
+| [0.0.46](https://github.com/redhat-developer/kam/releases/tag/v0.0.46) |  4.8  - 4.11  |       1.6        |                     |
+| [0.0.42](https://github.com/redhat-developer/kam/releases/tag/v0.0.42) |  4.8  - 4.11  |       1.5        |                     |
+| [0.0.41](https://github.com/redhat-developer/kam/releases/tag/v0.0.41) |  4.7  - 4.10  |       1.4        |                     |
+| [0.0.40](https://github.com/redhat-developer/kam/releases/tag/v0.0.40) |  4.7  - 4.9   |       1.3        |        1.6.x        |
+| [0.0.39](https://github.com/redhat-developer/kam/releases/tag/v0.0.39) |      4.8      |      >=1.2.1     |        1.5.x        |
+| [0.0.38](https://github.com/redhat-developer/kam/releases/tag/v0.0.38) |      4.7      |      >=1.2.0     |        1.4.x        |
+
 
 ## CLI Reference
 
